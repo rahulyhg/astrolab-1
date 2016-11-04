@@ -1,6 +1,6 @@
 {
   "name": "astrolab",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A small module for working with zodiac signs",
   "main": "index.js",
   "repository": {
