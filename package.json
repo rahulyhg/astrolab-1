@@ -1,0 +1,12 @@
+{
+  "name": "astrolab",
+  "version": "0.0.1",
+  "description": "A small module for working with zodiac signs",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/ianmcdonald/astrolab",
+    "type": "git"
+  },
+  "author": "iangregoryjames-at-gmail",
+  "license": "MIT"
+}
